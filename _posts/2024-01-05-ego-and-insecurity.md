@@ -2,7 +2,7 @@
 layout: post
 title: Egos and Insecurities
 subtitle: Different sides of the same coin
-description: Aham, usually known as ego, translates to I am in Sanskrit, as told by Paramahansa Yogananda in his autobiography. Similarly, I believe every form of insecurity can be thought of as I am not.
+description:  Aham, usually known as ego, translates to "I am" in Sanskrit, as told by Paramahansa Yogananda in his autobiography. Similarly, I believe every form of insecurity can be thought of as "I am not".
 tags: [life, self-image]
 comments: true
 ---
